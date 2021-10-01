@@ -9,3 +9,6 @@ The accepted version of the manuscript can be found [here](https://journals.plos
 
 #### Model code
 The model was built by Python (version 3.6) and the library Mesa which is an open source agent-based modelling framework. Other dependencies include Pandas, Matplotlib, NetworkX, Seaborn and Numpy.
+
+#### Hospital data analysis
+This directory contains code that was used to analyze hospital data. This is a template script and depending on the data format, appropriate changes are required in order to run the script correctly. Unfortunately, hospital data is not publicly available.
